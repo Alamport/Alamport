@@ -5,5 +5,5 @@
 - 🎯 I'm working on creating a 2d game
 - 📫 How to reach me:
   - adin.lamport@colby.edu
-  - LinkedIn
+  - linkedin.com/in/adin-lamport-618853231
 
