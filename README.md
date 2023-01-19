@@ -11,5 +11,5 @@
 Hobbies:
 - 🎼 I have been playing the violin for 13 years from solos to working in orchestras
 - 🏐 I am on the men's volleyball team at Colby
-- 
+
 <!-- - 👀 I’m interested in game design  -->
