@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
   - adin.lamport@colby.edu
-  - <a href="[https://www.linkedin.com/in/adin-lamport-618853231/](https://www.linkedin.com/in/adinlamport/)"> LinkedIn </a>
+  - <a href="https://www.linkedin.com/in/adinlamport"> LinkedIn </a>
 
 Hobbies:
 - 🎼 I have been playing the violin for 13 years from solos to working in orchestras
