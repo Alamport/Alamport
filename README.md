@@ -11,5 +11,6 @@
 
 Hobbies:
 - 🎼 I have been playing the violin for 14 years from solos to working in orchestras
+- 🍴 I love cooking all sorts of cuisines so send me any recipe you recommend!
 
 <!-- - 👀 I’m interested in game design  -->
