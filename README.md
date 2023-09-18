@@ -1,16 +1,15 @@
 - 👋 Hi, I’m Adin Lamport
-- 🌱 I’m currently taking a course on Programming Languages at Colby College 
+- 🌱 I’m currently taking a course on Machine Structure and Assembly Language Programming at Tufts
 - 👔 I’m looking for an internship this coming summer to grow as a developer
-- 🎯 I'm working on creating a 2d platform game using Greek Mythology as reference
+- 🎯 I'm working on creating a personal website using React
 - 📔 I'm currently learning AWS to take the cloud practicitioner certification test
 
 
 - 📫 How to reach me:
-  - adin.lamport@colby.edu
+  - adin.lamport@tufts.edu
   - <a href="https://www.linkedin.com/in/adinlamport"> LinkedIn </a>
 
 Hobbies:
 - 🎼 I have been playing the violin for 14 years from solos to working in orchestras
-- 🏐 I am on the men's volleyball team at Colby
 
 <!-- - 👀 I’m interested in game design  -->
